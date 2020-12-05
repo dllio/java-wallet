@@ -1,5 +1,4 @@
 ### blockchain-java
-#### Power By Machinist's Heart studio
 ```
 {
     "code": 200,
